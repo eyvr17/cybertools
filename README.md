@@ -2,6 +2,10 @@
 
 CyberControl Panel is an interactive Python-based tool for Windows systems. It is designed for educational and academic use in cybersecurity training. The tool offers a simple interface and allows users to explore key concepts such as network scanning, password analysis, port monitoring, and system interaction using a command-line menu.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/6Iax.gif" alt="cyberpunk" width="480"/>
+</p>
+
 ---
 
 ## Overview of Features
